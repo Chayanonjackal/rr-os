@@ -1,1 +1,1 @@
-Let's play Russia Roulette on your windows OS :)
+Let's play Russia Roulette on your OS :)
